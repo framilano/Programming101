@@ -19,6 +19,7 @@ Basic programming course with practical exercises support
 - Data structures (lists, stacks, queues, trees)
 - List comprehension (Python only)
 - Strings manipulation
+- Regexp
 - How to read and search for docs?
 - I/O (terminal and file based)
 - Classes and object extension
