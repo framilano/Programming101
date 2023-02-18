@@ -24,5 +24,5 @@ Basic programming course with practical exercises support
 - Classes and object extension
 - Recursion
 - Algorithms
-    > Sorting 
+    * Sorting 
 - Dynamic Programming
