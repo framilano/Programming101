@@ -4,7 +4,7 @@ Basic programming course with practical exercises support
 
 ---
 
-# Chapter 1: Python3 syntax and PLs basics
+## Chapter 1: Python3 syntax and PLs basics
  - Compilers, linkers and interpreters
  - What is Python for?
  - Python3 syntax
@@ -12,7 +12,7 @@ Basic programming course with practical exercises support
  - 'If' Control Flow statement
  - Functions and code modularization
 
-# ToDo
+## ToDo
 - 'While' Control flow statement
 - Logic operators (and, or, not, in)
 - Variables scope
