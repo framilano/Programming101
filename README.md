@@ -1,4 +1,4 @@
-# Programming101
+# Programming<sup>101</sup>
 
 Basic programming course with practical exercises support
 
