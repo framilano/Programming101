@@ -14,8 +14,15 @@ Basic programming course with practical exercises support
 
 # ToDo
 - 'While' Control flow statement
-- Data structures (lists, stacks, queues)
+- Logic operators (and, or, not, in)
+- Variables scope
+- Data structures (lists, stacks, queues, trees)
+- List comprehension (Python only)
+- Strings manipulation
+- How to read and search for docs?
 - I/O (terminal and file based)
-- Sorting algorithms
-- Trees
-- Recursion, Dynamic Programming
+- Classes and object extension
+- Recursion
+- Algorithms
+    > Sorting 
+- Dynamic Programming
