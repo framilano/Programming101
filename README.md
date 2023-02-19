@@ -12,16 +12,19 @@ Basic programming course with practical exercises support
  - 'If' Control Flow statement
  - Functions and code modularization
 
+## Chapter 2:
+ - 'While' Control flow statement
+ - Terminal input
+ - Logical operators (and, or, not, in)
+
 ## ToDo
-- 'While' Control flow statement
-- Logic operators (and, or, not, in)
 - Variables scope
 - Data structures (lists, stacks, queues, trees)
 - List comprehension (Python only)
 - Strings manipulation
 - Regexp
 - How to read and search for docs?
-- I/O (terminal and file based)
+- I/O (file based)
 - Classes and object extension
 - Recursion
 - Algorithms
